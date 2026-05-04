@@ -1,4 +1,4 @@
-#  Laboratório AWS EC2 – Guia Completo
+#  Laboratório 3 AWS EC2 
 
 Este README documenta o passo a passo realizado no laboratório de Amazon EC2, incluindo criação, monitoramento, acesso, redimensionamento e exploração de limites de uma instância.
 
